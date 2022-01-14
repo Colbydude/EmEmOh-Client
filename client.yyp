@@ -7,6 +7,7 @@
     {"id":{"name":"msgpack_decode_ext","path":"scripts/msgpack_decode_ext/msgpack_decode_ext.yy",},"order":0,},
     {"id":{"name":"msgpack_encode_value","path":"scripts/msgpack_encode_value/msgpack_encode_value.yy",},"order":4,},
     {"id":{"name":"msgpack_decode","path":"scripts/msgpack_decode/msgpack_decode.yy",},"order":2,},
+    {"id":{"name":"packet_enums","path":"scripts/packet_enums/packet_enums.yy",},"order":2,},
     {"id":{"name":"sprTempCharacter","path":"sprites/sprTempCharacter/sprTempCharacter.yy",},"order":0,},
     {"id":{"name":"objPuppet","path":"objects/objPuppet/objPuppet.yy",},"order":1,},
     {"id":{"name":"msgpack_encode_ds","path":"scripts/msgpack_encode_ds/msgpack_encode_ds.yy",},"order":3,},
