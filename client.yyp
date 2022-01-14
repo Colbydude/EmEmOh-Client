@@ -1,5 +1,8 @@
 {
   "resources": [
+    {"id":{"name":"objNetworkController","path":"objects/objNetworkController/objNetworkController.yy",},"order":0,},
+    {"id":{"name":"sprTempCharacter","path":"sprites/sprTempCharacter/sprTempCharacter.yy",},"order":0,},
+    {"id":{"name":"objPuppet","path":"objects/objPuppet/objPuppet.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
